@@ -1,5 +1,5 @@
 const config = {
-  prodcution:{
+  production:{
     SECRET:process.env.SECRET,
     DATABASE: process.env.MONGODB_URI,
     PORT: process.env.PORT
